@@ -24,4 +24,4 @@ I have seen more or less every Scorsese ever made, and his directing style has n
 
 # Rating
 
-<h4 style="text-align:center;"> ⭐⭐⭐⭐⭐⭐⭐⭐⭐🌟/⭐⭐⭐⭐⭐⭐⭐⭐⭐🌟, 10/10</h4>
+<h4 style="text-align:center;"> ⭐⭐⭐⭐⭐⭐⭐⭐⭐🌟/⭐⭐⭐⭐⭐⭐⭐⭐⭐🌟<br>10/10</h4>
