@@ -1,0 +1,95 @@
+# Site Settings
+title: "Toma's Movie And TV Show Critiques"
+rss-description: "Toma's Movie And TV Show Critiques"
+author: "Toma Brasoveanu"
+permalink: pretty
+tags:
+  - blog
+  - movies
+  - shows
+  - TV
+  - critiques
+  - reviews
+show_hero: true
+menu:
+  - title: Home
+    url: "/"
+  - title: About
+    url: /pages/about
+# Posts Settings
+show_time_bar: true
+show_modal_on_exit: false
+show_modal_on_finish_post: true
+two_columns_layout: true
+
+
+# Advanced Settings
+baseurl: "/testmoviecritiques/"
+url: "https://tbrsvn.github.io/" # the base hostname & protocol for your site
+language: "en"
+categories_folder: category
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+collections:
+  authors:
+    output: true
+paginate_path: "/page/:num/"
+use_logo: false
+
+# Content paginator
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+  auto: false
+  separator: "--page-break--"
+  permalink: "/:num/"
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
+
+# SASS
+sass:
+  style: compressed
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-responsive_image
+  - emoji_for_jekyll
+  - jekyll-paginate
+  - jekyll-paginate-content
+  
+
+# Exclude my node related stuff
+exclude: [
+  'docs/',
+  'vendor/',
+  'LICENSE',
+  'CHANGELOG.md',
+  'jekflix.gemspec',
+  'package.json',
+  'package-lock.json',
+  'src',
+  'node_modules',
+  'initpost.sh',
+  'Gemfile',
+  'Gemfile.lock',
+  'gulpfile.js',
+  'README.md'
+]
+
+# Theme
+version: v3.1.2
