@@ -8,7 +8,7 @@ image: "https://tbrsvn.github.io/assets/img/taxidriver-poster.jpg"
 optimized_image: "https://tbrsvn.github.io/assets/img/taxidriver-poster.jpg"
 category: "Crime"
 tags:
-  - Commentary
+  - Review
   - Movie
 author: "tomab"
 paginate: true
