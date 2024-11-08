@@ -139,7 +139,7 @@
                 "image": {{ "/assets/img/user.jpg" | prepend: site.baseurl | prepend: site.url }},
                 {% endif %}
                 "jobTitle": "{{ author.position }}",
-                "url": "{{ "/testmoviecritique/authors/tomab/" | prepend: site.baseurl | prepend: site.url }}",
+                "url": "{{ author.url | prepend: site.baseurl | prepend: site.url }}",
                 "sameAs": [
                     {{ author_urls | split: "," | join: "," }}
                 ]
