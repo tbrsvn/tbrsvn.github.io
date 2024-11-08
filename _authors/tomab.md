@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /testmoviecritiques/assets/img/uploads/profile.png
+photo: /assets/img/uploads/profile.png
 name: tomab
 display_name: Toma Brasoveanu
 position: Nerd
