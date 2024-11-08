@@ -16,7 +16,7 @@ paginate: true
 
 # Short Summary Of My Review
 
-Taxi Driver is my favorite movie of all time. It has great music which it uses to tell the story, tricks you into siding with a (at the end) clearly insane person. The directing is great, 10/10
+Taxi Driver is my favorite movie of all time. It has great music which it uses to tell the story, tricks you into siding with a (at the end) clearly insane person. The directing is great, 10/10.
 
 # Full Review
 
