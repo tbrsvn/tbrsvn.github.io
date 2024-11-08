@@ -24,7 +24,6 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "/testmoviecritiques/"
 url: "https://tbrsvn.github.io/" # the base hostname & protocol for your site
 language: "en"
 categories_folder: category
