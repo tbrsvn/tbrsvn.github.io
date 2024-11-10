@@ -1,5 +1,5 @@
 ---
-date: 2024-11-10 00:51:30
+date: 2024-11-10 00:52:34
 layout: post
 title: "Toma's Review Of: American History X (1998)"
 subtitle:
