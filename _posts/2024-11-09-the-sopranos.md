@@ -3,13 +3,14 @@ date: 2024-11-09 00:27:46
 layout: post
 title: "Toma's Review Of: The Sopranos (1999–2007)"
 subtitle:
-description: "An innovative look at the life of fictional Mafia Capo Tony Soprano, this serial is presented largely first person, but additional perspective is conveyed by the intimate conversations Tony has with his psychotherapist. We see Tony at work, at home, and in therapy. Moments of black comedy intersperse this aggressive, adult drama, with adult language, and extreme violence."
+description: "Creator: David Chase | Writer(s): David Chase | Stars: James Gandolfini, Lorraine Bracco, Edie Falco. An innovative look at the life of fictional Mafia Capo Tony Soprano, this serial is presented largely first person, but additional perspective is conveyed by the intimate conversations Tony has with his psychotherapist. We see Tony at work, at home, and in therapy. Moments of black comedy intersperse this aggressive, adult drama, with adult language, and extreme violence."
 image: "/assets/img/thesopranos-poster.jpg"
 optimized_image: "/assets/img/thesopranos-poster.jpg"
 category: "Crime"
 tags:
   - Review
   - TV
+  - "David Chase"
 author: "tomab"
 paginate: true
 ---

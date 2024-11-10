@@ -3,13 +3,15 @@ date: 2024-11-10 01:35:32
 layout: post
 title: "Toma's Review Of: The Death of Stalin (2017)"
 subtitle:
-description: "In early-1953 Moscow, under the Great Terror's heavy cloak of state paranoia, the ever-watchful Soviet leader, Iosif Stalin, collapses, unexpectedly, of a brain haemorrhage. As a result, when someone discovers his body the following morning, a frenetic surge of raw panic starts spreading like a virus amongst the senior members of the Council of Ministers, as they scramble to maintain order, weed out the competition, and, ultimately, take power. But, in the middle of a gut-wrenching roller-coaster of incessant plotting, tireless machinations, and frail allegiances, absolutely no one is safe; not even the feared chief of the secret police, Lavrenti Beria. In the end, who will prevail after the death of Stalin?"
+description: "Director: Armando Iannucci | Writer(s): Fabien Nury, Thierry Robin, Armando Iannucci | Stars: 
+Steve Buscemi, Simon Russell Beale, Jeffrey Tambor. In early-1953 Moscow, under the Great Terror's heavy cloak of state paranoia, the ever-watchful Soviet leader, Iosif Stalin, collapses, unexpectedly, of a brain haemorrhage. As a result, when someone discovers his body the following morning, a frenetic surge of raw panic starts spreading like a virus amongst the senior members of the Council of Ministers, as they scramble to maintain order, weed out the competition, and, ultimately, take power. But, in the middle of a gut-wrenching roller-coaster of incessant plotting, tireless machinations, and frail allegiances, absolutely no one is safe; not even the feared chief of the secret police, Lavrenti Beria. In the end, who will prevail after the death of Stalin?"
 image: "https://tbrsvn.github.io/assets/img/thedeathofstalin-poster.jpg"
 optimized_image: "https://tbrsvn.github.io/assets/img/thedeathofstalin-poster.jpg"
 category: "Comedy"
 tags:
   - Review
   - Movie
+  - "Armando Iannucci"
 author: "tomab"
 paginate: true
 ---

@@ -3,13 +3,14 @@ date: 2024-11-10 00:52:34
 layout: post
 title: "Toma's Review Of: American History X (1998)"
 subtitle:
-description: "Derek Vineyard is paroled after serving 3 years in prison for brutally killing two black men who tried to break into/steal his truck. Through his brother's, Danny Vineyard, narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did."
+description: "Director: Tony Kaye | Writer(s): David McKenna | Stars: Edward Norton, Edward Furlong, Beverly D'Angelo. Derek Vineyard is paroled after serving 3 years in prison for brutally killing two black men who tried to break into/steal his truck. Through his brother's, Danny Vineyard, narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did."
 image: "/assets/img/americanhistoryx-poster.jpg"
 optimized_image: "/assets/img/americanhistoryx-poster.jpg"
 category: "Crime"
 tags:
   - Review
   - Movie
+  - "Tony Kaye"
 author: "tomab"
 paginate: true
 ---
