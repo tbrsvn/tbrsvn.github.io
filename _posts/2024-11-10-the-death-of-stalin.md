@@ -25,4 +25,4 @@ The Death of Stalin is a hilarious movie using both comedic wit and normalized e
 &nbsp;&nbsp;&nbsp;&nbsp;It also has amazing directing. You can tell every shot was thought about for 10 hours and then scrapped when Iannucci got an even better idea to ponder. The shots of the ginormous fortresses these soviet leaders had were beautiful. The music fit every scene perfectly, elevating but never distracting from them. The scenes with *tons* of people had me questioning how he had that, which is the magic in movies. "How did you do that?" is probably the best compliment you can receive. On top of all that, the runtime is under two hours so it moves very fast. Iannucci more like Imadeagoodmovieucci, 10/10
 
 
-<h4 style="text-align:center;"> ⭐⭐⭐⭐⭐⭐⭐⭐⭐🌟/⭐⭐⭐⭐⭐⭐⭐⭐⭐🌟<br>10.0/10</h4>
+<h4 style="text-align:center;"> ⭐⭐⭐⭐⭐⭐⭐⭐⭐🌟/⭐⭐⭐⭐⭐⭐⭐⭐⭐🌟<br>10/10</h4>

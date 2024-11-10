@@ -26,4 +26,4 @@ American History X is only worth the watch for Edward Nortons (albeit amazing) p
 
 &nbsp;&nbsp;&nbsp;&nbsp;Edward Furlong weighs down Edward Nortons' performance as well because he is monotone and not in character. He acts weirdly conflicted about his white supremacist view, even though he's supposed to be fully commited to his skinhead community so that Norton has to save him. Without that there is *literally* no plot to the movie. Now, his character could be in full support of white supremacy, but apprehensive \/ knows it's wrong, but it doesn't come off like that because Furlongs performance is so flat. He just seems like his words are changing but not his emotions. Side note; Edward Nortons cuts biggest difference was (allegedly) whittling down Furlongs screentime. Amazing actor hindered by a very meh director that casted a less then meh protagonist. 7/10.
 
-<h4 style="text-align:center;"> ⭐⭐⭐⭐⭐⭐🌟/⭐⭐⭐⭐⭐⭐⭐⭐⭐🌟<br>7.0/10</h4>
+<h4 style="text-align:center;"> ⭐⭐⭐⭐⭐⭐🌟/⭐⭐⭐⭐⭐⭐⭐⭐⭐🌟<br>7/10</h4>
