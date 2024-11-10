@@ -16,7 +16,7 @@ paginate: true
 
 # Short Summary Of My Review
 
-American History X is only worth the watch for Edward Nortons (albeit amazing) performance. The directing hinders the film severyly and I have not seen another Tony Kaye since. Edward Furlong is bland and doesn't believably portray being a white supremacist. 7/10 
+American History X is only worth the watch for Edward Nortons (albeit amazing) performance. The directing hinders the film severyly and I have not seen another Tony Kaye since. Edward Furlong is bland and doesn't believably portray being a white supremacist. 7/10.
 
 # Full Review
 
@@ -24,6 +24,6 @@ American History X is only worth the watch for Edward Nortons (albeit amazing) p
 
 &nbsp;&nbsp;&nbsp;&nbsp;Now for the bad (i.e. Tony Kaye). I can find someway to pick apart every scene, so I will pick a very climactic one. The rape scene in prison with Edward Norton 1, doesn't make sense because his skinhead friends were hanging out with non-whites too, and 2, the slow mo effect takes away from the tension of the scene for no reason, and then is apologized for by being overly graphic and long. Then the cut where the rapist hits his head on the wall is cut super choppy. Theres 2 shots that look smooth, and then his head teleports 3 inches in front of where it was very noticeably.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;Edward Furlong weighs down Edward Nortons' performance as well because he is monotone and not in character. He acts weirdly conflicted about his white supremacist view, even though he's supposed to be fully commited to his skinhead community so that Norton has to save him. Without that there is *literally* no plot to the movie. Now, his character could be in full support of white supremacy, but apprehensive \/ knows it's wrong, but it doesn't come off like that because Furlongs performance is so flat. He just seems like his words are changing but not his emotions. Side note; Edward Nortons cuts biggest difference was (allegedly) whittling down Furlongs screentime. Amazing actor hindered by a very meh director that casted a less then meh protagonist. 7/10
+&nbsp;&nbsp;&nbsp;&nbsp;Edward Furlong weighs down Edward Nortons' performance as well because he is monotone and not in character. He acts weirdly conflicted about his white supremacist view, even though he's supposed to be fully commited to his skinhead community so that Norton has to save him. Without that there is *literally* no plot to the movie. Now, his character could be in full support of white supremacy, but apprehensive \/ knows it's wrong, but it doesn't come off like that because Furlongs performance is so flat. He just seems like his words are changing but not his emotions. Side note; Edward Nortons cuts biggest difference was (allegedly) whittling down Furlongs screentime. Amazing actor hindered by a very meh director that casted a less then meh protagonist. 7/10.
 
 <h4 style="text-align:center;"> ⭐⭐⭐⭐⭐⭐🌟/⭐⭐⭐⭐⭐⭐⭐⭐⭐🌟<br>7.0/10</h4>
