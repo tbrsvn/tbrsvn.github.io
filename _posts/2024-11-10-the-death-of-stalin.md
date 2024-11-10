@@ -1,5 +1,5 @@
 ---
-date: 2024-11-10 01:34:42
+date: 2024-11-10 01:35:32
 layout: post
 title: "Toma's Review Of: The Death of Stalin (2017)"
 subtitle:
