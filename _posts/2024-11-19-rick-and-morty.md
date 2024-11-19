@@ -1,5 +1,5 @@
 ---
-date: 2024-11-19 23:00:41
+date: 2024-11-19 23:02:24
 layout: post
 title: "Toma's Review Of: Rick and Morty (2013–)"
 subtitle:
