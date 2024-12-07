@@ -1,5 +1,5 @@
 ---
-date: 2024-12-07 20:30:28
+date: 2024-12-07 20:31:18
 layout: post
 title: "Toma's Review Of: Barton Fink (1991)"
 subtitle:
